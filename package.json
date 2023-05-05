@@ -11,5 +11,9 @@
     "build": "echo TODO"
   },
   "dependencies": {
+    "victory": "^36.6.10"
+  },
+  "devDependencies": {
+    "vite": "^4.3.5"
   }
 }
