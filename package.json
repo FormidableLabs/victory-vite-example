@@ -8,7 +8,8 @@
   "author": "Ryan Roemer <ryan.roemer@formidable.com>",
   "license": "MIT",
   "scripts": {
-    "build": "echo TODO"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "react": "^18.2.0",
