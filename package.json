@@ -1,0 +1,15 @@
+{
+  "name": "victory-vite-example",
+  "version": "0.0.1",
+  "description": "Build victory with vite",
+  "main": "src/index.js",
+  "repository": "https://github.com/FormidableLabs/victory-vite-example",
+  "homepage": "https://github.com/FormidableLabs/victory-vite-example#readme",
+  "author": "Ryan Roemer <ryan.roemer@formidable.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo TODO"
+  },
+  "dependencies": {
+  }
+}
