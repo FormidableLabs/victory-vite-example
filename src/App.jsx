@@ -1,10 +1,13 @@
-function App() {
 
+import { VictoryPie } from "victory";
+
+function App() {
   return (
     <>
-      <h1>Vite + Victory</h1>
+      <h1>Victory + Vite</h1>
+      <VictoryPie />
     </>
   )
-}
+};
 
 export default App
