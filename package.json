@@ -2,7 +2,7 @@
   "name": "victory-vite-example",
   "version": "0.0.1",
   "description": "Build victory with vite",
-  "main": "src/index.js",
+  "main": "src/main.jsx",
   "repository": "https://github.com/FormidableLabs/victory-vite-example",
   "homepage": "https://github.com/FormidableLabs/victory-vite-example#readme",
   "author": "Ryan Roemer <ryan.roemer@formidable.com>",
@@ -11,9 +11,12 @@
     "build": "echo TODO"
   },
   "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "victory": "^36.6.10"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
     "vite": "^4.3.5"
   }
 }
